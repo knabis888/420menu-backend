@@ -28,5 +28,359 @@
         "price": 12,
         "description": "- Bangarang - Lemon Skunk, 3Gr x 12e (Same variety, can't be mixed)",
         "category": "Ofertas"
+    },
+    {
+        "name": "2Gr",
+        "price": 12,
+        "description": "- Frozen - Static RS11 (can't be mixed)",
+        "category": "Ofertas"
+    },
+    {
+        "name": "Moroccan Hash Nesquik",
+        "price": 2,
+        "description": "1Gr x 2e",
+        "category": "Ofertas"
+    },
+    {
+        "name": "CALI'S 2g x 20e",
+        "price": 20,
+        "description": "All Cali's that cost are 15e/Gr, 2Gr x 20e (Same or Mixed)",
+        "category": "Ofertas"
+    },
+    {
+        "name": "3g",
+        "price": 25,
+        "description": "- Zambuza - Gelato Ice - Pineapple Fanta - Amaretto Sour #2 - Banana Runtz Cali*, 3g x 25e",
+        "category": "Ofertas"
+    },
+    {
+        "name": "3Gr",
+        "price": 20,
+        "description": "- Amnesia Haze, 2Gr x 20e (Same variety, can't be mixed)",
+        "category": "Ofertas"
+    },
+    {
+        "name": "Queen Sugar",
+        "price": 15,
+        "description": "Padres desconocidos, 50% Indica, 50% Sativa, THC: 17%",
+        "category": "Cali Weed"
+    },
+    {
+        "name": "Ludicross Cherry",
+        "price": 15,
+        "description": "Grandaddy Purple x Cherry Pie, 50% Indica/Sativa, THC: 19%",
+        "category": "Cali Weed"
+    },
+    {
+        "name": "Passion Orange",
+        "price": 15,
+        "description": "Tangie x Guava Dog, 50% Indica/Sativa, THC: 16%",
+        "category": "Cali Weed"
+    },
+    {
+        "name": "Butter Scotch BubbleGum",
+        "price": 15,
+        "description": "ButterScotch x Bubble Gum, 60% Indica, 40% Sativa, THC: 18-20%",
+        "category": "Cali Weed"
+    },
+    {
+        "name": "Poppers",
+        "price": 15,
+        "description": "Lemon Skunk x Cherry x Zkittlez, 50% Indica/Sativa, THC: 20%",
+        "category": "Cali Weed"
+    },
+    {
+        "name": "Dank Matter Skrilla",
+        "price": 15,
+        "description": "Cherry Thunderfuck x Rusty Haze, 50% Indica/Sativa, THC: 23%",
+        "category": "Cali Weed"
+    },
+    {
+        "name": "Triple Scoop Gelato",
+        "price": 15,
+        "description": "S.S Haze x Grape LA x Sorbet x Gelato, 50% Indica/Sativa, THC: 15-20%",
+        "category": "Cali Weed"
+    },
+    {
+        "name": "Lemon Cherry Juice",
+        "price": 15,
+        "description": "Sunset Sherbet x G.S.C, 50% Indica/Sativa, THC: 20%",
+        "category": "Cali Weed"
+    },
+    {
+        "name": "Blue Zhussi",
+        "price": 15,
+        "description": "Zkittlez x Kush Mints, 50% Indica/Sativa, THC: 24-26%",
+        "category": "Cali Weed"
+    },
+    {
+        "name": "Banana Runtz",
+        "price": 15,
+        "description": "Banana OG x Runtz, 50% Indica/Sativa, THC: 20-22%",
+        "category": "Cali Weed"
+    },
+    {
+        "name": "Calipso",
+        "price": 10,
+        "description": "Afghani x Chemdog 70%-IND 30%-SAT THC18%",
+        "category": "Spanish Cali"
+    },
+    {
+        "name": "Fanta See",
+        "price": 10,
+        "description": "Mandarine Cookies x Gandpa´s Cookies x W. Cake x Triangle Kush 50%-IND/SAT THC-24%",
+        "category": "Spanish Cali"
+    },
+    {
+        "name": "RS11",
+        "price": 10,
+        "description": "Pink Guava x OZK 70%-IND 30%-SAT THC-32%",
+        "category": "Spanish Cali"
+    },
+    {
+        "name": "Permanent Maker",
+        "price": 10,
+        "description": "Biscotti x Jealousy x Sherbet 70%-IND 30%-SAT THC-32%",
+        "category": "Spanish Cali"
+    },
+    {
+        "name": "Dank Berry",
+        "price": 10,
+        "description": "SkunkBerry x Little Devil 60%-IND 40%-SAT THC-35%",
+        "category": "Spanish Cali"
+    },
+    {
+        "name": "Apes In Space",
+        "price": 8,
+        "description": "Falcon 9 x Grease Monkey IND-30% SAT-70% THC-20/25%",
+        "category": "Spanish Cali"
+    },
+    {
+        "name": "Zkittlez",
+        "price": 10,
+        "description": "Grape Ape x Grapefruit IND-70% SAT-30% THC-13/15%",
+        "category": "Spanish Cali"
+    },
+    {
+        "name": "Gelato Zkittlez",
+        "price": 10,
+        "description": "Gelato #33 X Zkittlez IND-70% SAT-30% 30/33%-THC",
+        "category": "Spanish Cali"
+    },
+    {
+        "name": "Gelato Cookies",
+        "price": 10,
+        "description": "Thin Mint Girl Scout Cookies x Sunset Sherbet IND-70% SAT-30% 22/24%-THC",
+        "category": "Spanish Cali"
+    },
+    {
+        "name": "Mimosa Orange Punch",
+        "price": 10,
+        "description": "Mimosa Evo x Orange Punch IND-65% SAT 35% 30%-THC",
+        "category": "Spanish Cali"
+    },
+    {
+        "name": "Cherry Pie",
+        "price": 10,
+        "description": "Grandaddy Purple x Durban Poison IND-80% SAT-20% 16/24%-THC",
+        "category": "Spanish Cali"
+    },
+    {
+        "name": "Banana Kush",
+        "price": 10,
+        "description": "Ghost OG x Skunk Haze IND-60% SAT-40% 19/25%-THC",
+        "category": "Spanish Cali"
+    },
+    {
+        "name": "Amaretto Sour #2",
+        "price": 10,
+        "description": "Zkittlez x Biscotti x Sherbet BX IND-60% SAT-40% 23%-THC",
+        "category": "Spanish Cali"
+    },
+    {
+        "name": "Pineapple Fanta",
+        "price": 10,
+        "description": "Golden Pineapple X Jet Fuel IND-40% SAT-60% 21/25%-THC",
+        "category": "Spanish Cali"
+    },
+    {
+        "name": "Gelato Slurricane",
+        "price": 15,
+        "description": "Slurricane x Gelato 33 IND-60% SAT-40% 26%-THC",
+        "category": "Spanish Cali"
+    },
+    {
+        "name": "Wedding Cake HQ",
+        "price": 10,
+        "description": "Triangle Kush x Animal Mints High Quality 40%-IND 60%-SAT THC-25/27%",
+        "category": "Spanish Cali"
+    },
+    {
+        "name": "G2",
+        "price": 6,
+        "description": "Unknow Parents IND/SAT-50% 25/30%-THC",
+        "category": "Spanish Cali"
+    },
+    {
+        "name": "Mimosa",
+        "price": 8,
+        "description": "Purple Punch x Clementine -IND-40% -SAT-70% 22%-THC",
+        "category": "Spanish Cali"
+    },
+    {
+        "name": "Zambuza",
+        "price": 10,
+        "description": "Poison Gushers x Zuchi IND-60% SAT-40% 24%-THC",
+        "category": "Spanish Cali"
+    },
+    {
+        "name": "Triple Haze",
+        "price": 10,
+        "description": "AK 47 x Karel´s Haze x Haze 10%-IND 90%-SAT THC-21%",
+        "category": "Regular Weed"
+    },
+    {
+        "name": "Swiss Cheese",
+        "price": 5,
+        "description": "Swiss Miss x Skunk 30%-IND 70%-SAT THC-23%",
+        "category": "Regular Weed"
+    },
+    {
+        "name": "Cheese Scotty",
+        "price": 5,
+        "description": "Biscotti x Cheese 50%-IND/SAT THC-23%",
+        "category": "Regular Weed"
+    },
+    {
+        "name": "Amnesia Haze",
+        "price": 8,
+        "description": "Amnesia x Haze 20%-IND 80%-SAT THC-21%",
+        "category": "Regular Weed"
+    },
+    {
+        "name": "Cereal Milk",
+        "price": 6,
+        "description": "Snowman x Life 40%-IND 60%-SAT THC-27%",
+        "category": "Regular Weed"
+    },
+    {
+        "name": "Wedding Cake",
+        "price": 6,
+        "description": "Triangle Kush x Animal Mints 40%-IND 60%-SAT THC-25/27%",
+        "category": "Regular Weed"
+    },
+    {
+        "name": "Coco Bamba",
+        "price": 6,
+        "description": "Lava Cake x Dos i Dos 40%-IND 60%-SAT THC-30%",
+        "category": "Regular Weed"
+    },
+    {
+        "name": "Banana",
+        "price": 6,
+        "description": "Banana x Kush 40%-IND 60%-SAT THC-23%",
+        "category": "Regular Weed"
+    },
+    {
+        "name": "AK-47",
+        "price": 6,
+        "description": "Colombian",
+        "category": "Regular Weed"
+    },
+    {
+        "name": "Lemon Runtz",
+        "price": 6,
+        "description": "Runtz x Lemon Tree 50%-IND/SAT THC-21%",
+        "category": "Regular Weed"
+    },
+    {
+        "name": "Cream Caramel",
+        "price": 6,
+        "description": "Blue Black x Maple x White Rhino 90%-IND 10%-SAT THC-15/20%",
+        "category": "Regular Weed"
+    },
+    {
+        "name": "Green Poison",
+        "price": 6,
+        "description": "SWS 14 70%-IND 30%-SAT THC-15/20%",
+        "category": "Regular Weed"
+    },
+    {
+        "name": "Bangarang",
+        "price": 5,
+        "description": "Unknow Parents IND-40% SAT-60% THC-26",
+        "category": "Regular Weed"
+    },
+    {
+        "name": "Strawberry",
+        "price": 15,
+        "description": "40%-IND 60%-SAT THC-25%",
+        "category": "Regular Weed"
+    },
+    {
+        "name": "Gorila Breath",
+        "price": 15,
+        "description": "66♯4 x OG Kush Breath 80%-IND 20%-SAT THC-27%",
+        "category": "Regular Weed"
+    },
+    {
+        "name": "Mango Splash",
+        "price": 15,
+        "description": "Mango x OG x Afghani IND-60% SAT-40% THC-25%",
+        "category": "Regular Weed"
+    },
+    {
+        "name": "Cannalope Haze",
+        "price": 10,
+        "description": "Haze Brothers x Mexican (Michoacán) IND-5% SAT-95% THC-20/28%",
+        "category": "Regular Weed"
+    },
+    {
+        "name": "Gelato Ice",
+        "price": 10,
+        "description": "GSC x Sunset Sherbet IND-60% SAT-40% THC-25/27%",
+        "category": "Regular Weed"
+    },
+    {
+        "name": "Static",
+        "price": 7,
+        "description": "Static Dry RS11 7e/Gr",
+        "category": "Hash"
+    },
+    {
+        "name": "Frozen",
+        "price": 7,
+        "description": "Frozen 7e/Gr",
+        "category": "Hash"
+    },
+    {
+        "name": "Bellotas / Eggs",
+        "price": 50,
+        "description": "50e Ud/10Gr o 7e/Gr",
+        "category": "Hash"
+    },
+    {
+        "name": "Jellies",
+        "price": 15,
+        "description": "Jellies THC",
+        "category": "Edibles"
+    },
+    {
+        "name": "Chocolate biscuit",
+        "price": 15,
+        "description": "Chocolate biscuit THC",
+        "category": "Edibles"
+    },
+    {
+        "name": "93% THC 5% Terpen",
+        "price": 50,
+        "description": "Strains / Variedades\n. Mango Kush (IND)\n. Sky Walker (H)\n. OG Kush (H)\n. Super Lemon Haze...",
+        "category": "Vapes"
+    },
+    {
+        "name": "Rosin",
+        "price": 10,
+        "description": "Rosin jars Aprox 0.6g",
+        "category": "Extracts"
     }
 ]
