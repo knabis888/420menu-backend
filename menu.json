@@ -1,1 +1,32 @@
-[]
+[
+    {
+        "name": "2Gr",
+        "price": 15,
+        "description": "- Apes In Space - Mimosa, 2Gr x 15e (Same variety, can't be mixed)",
+        "category": "Ofertas"
+    },
+    {
+        "name": "3Gr",
+        "price": 15,
+        "description": "- Lemon Runtz, 3Gr x 15e (Same variety, can't be mixed)",
+        "category": "Ofertas"
+    },
+    {
+        "name": "2Gr",
+        "price": 25,
+        "description": "- Gorilla Breath - Strawberry - Mango Splash - Gelato Slurricane, 2Gr x 15e (Same variety, can't be mixed)",
+        "category": "Ofertas"
+    },
+    {
+        "name": "2Gr",
+        "price": 10,
+        "description": "- Banana - Coco Bamba - Wedding Cake - Green Poison - Cream Caramel - Cereal Milk - AK-47",
+        "category": "Ofertas"
+    },
+    {
+        "name": "3Gr",
+        "price": 12,
+        "description": "- Bangarang - Lemon Skunk, 3Gr x 12e (Same variety, can't be mixed)",
+        "category": "Ofertas"
+    }
+]
