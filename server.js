@@ -5,14 +5,26 @@ const app = express();
 const PORT = process.env.PORT || 3000;
 const DATA_FILE = 'menu.json';
 
+// Einfacher Passwortschutz
+const PASSWORD = process.env.API_PASSWORD || '420';
+
 app.use(express.json());
 app.use(cors({
     origin: '*',
     methods: ['GET', 'POST', 'PUT', 'DELETE'],
-    allowedHeaders: ['Content-Type']
+    allowedHeaders: ['Content-Type', 'Authorization']
 }));
 
 app.use(express.static('public'));
+
+// Middleware für Authentifizierung
+const authenticate = (req, res, next) => {
+    const authHeader = req.headers.authorization;
+    if (!authHeader || authHeader !== `Bearer ${PASSWORD}`) {
+        return res.status(403).json({ message: 'Zugriff verweigert' });
+    }
+    next();
+};
 
 // Lade Produkte
 const loadData = () => fs.existsSync(DATA_FILE) ? JSON.parse(fs.readFileSync(DATA_FILE)) : [];
@@ -20,7 +32,7 @@ const loadData = () => fs.existsSync(DATA_FILE) ? JSON.parse(fs.readFileSync(DAT
 // API Routen
 app.get('/products', (req, res) => res.json(loadData()));
 
-app.post('/products', (req, res) => {
+app.post('/products', authenticate, (req, res) => {
     let products = loadData();
     const { name, price, description, category } = req.body;
 
@@ -34,7 +46,7 @@ app.post('/products', (req, res) => {
     res.status(201).json(newProduct);
 });
 
-app.delete('/products/:id', (req, res) => {
+app.delete('/products/:id', authenticate, (req, res) => {
     let products = loadData();
     const id = parseInt(req.params.id);
     const filteredProducts = products.filter(p => p.id !== id);
